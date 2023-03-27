@@ -1,0 +1,26 @@
+{
+  "scrollPaddingBottom": 800,
+  "introText": {
+    "font": "barlow",
+    "color": "#4bd5ee",
+    "fontSize": 54
+  },
+  "title": {
+    "font": "barlowCondensed",
+    "color": "#ffd54e",
+    "fontSize": 95,
+    "marginBottom": 70
+  },
+  "subtitle": {
+    "font": "barlow",
+    "color": "#ffd54e",
+    "fontSize": 41,
+    "marginBottom": 46
+  },
+  "body": {
+    "font": "barlow",
+    "color": "#ffd54e",
+    "fontSize": 24,
+    "marginBottom": 16
+  }
+}
